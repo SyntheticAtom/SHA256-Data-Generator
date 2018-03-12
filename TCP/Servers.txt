@@ -1,0 +1,6 @@
+servers[0] = "stratum+tcp://scrypt.eu.nicehash.com:3333";
+servers[1] = "stratum+tcp://sha256.eu.nicehash.com:3334";
+servers[2] = "stratum+tcp://scryptnf.eu.nicehash.com:3335";
+servers[3] = "stratum+tcp://x11.eu.nicehash.com:3336";
+servers[4] = "stratum+tcp://x13.eu.nicehash.com:3337";
+servers[5] = "stratum+tcp://keccak.eu.nicehash.com:3338";
